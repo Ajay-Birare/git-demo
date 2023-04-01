@@ -1,3 +1,2 @@
-hi this is Ajay 
-this is for github 
-i create this file from local
+this is out text file creating for to push from the local 
+# directory to the remote directory
